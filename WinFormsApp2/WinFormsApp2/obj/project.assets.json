@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\git_repository\\test_btn_array\\WinFormsApp2\\WinFormsApp2\\WinFormsApp2.csproj",
+      "projectUniqueName": "D:\\git_repository\\arrayButtonPractiseCSharp\\WinFormsApp2\\WinFormsApp2\\WinFormsApp2.csproj",
       "projectName": "WinFormsApp2",
-      "projectPath": "D:\\git_repository\\test_btn_array\\WinFormsApp2\\WinFormsApp2\\WinFormsApp2.csproj",
+      "projectPath": "D:\\git_repository\\arrayButtonPractiseCSharp\\WinFormsApp2\\WinFormsApp2\\WinFormsApp2.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "D:\\git_repository\\test_btn_array\\WinFormsApp2\\WinFormsApp2\\obj\\",
+      "outputPath": "D:\\git_repository\\arrayButtonPractiseCSharp\\WinFormsApp2\\WinFormsApp2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

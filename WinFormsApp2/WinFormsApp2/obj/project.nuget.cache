@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DEOHnDsIzc1yqbAm/+GWzREK8oGOO9CoSeJngzosdcizstcHiVrTs5p7M/+EtOZ6R5R60rcDuVg4bq5l7HB4zA==",
+  "dgSpecHash": "LjWwnYmMuyH0j3SO4Dfc9naZpFZY/Bp+FhsKYoO+saJmZHFKl+gKcNlNTY7cG70T1C31YZiUCOcbfdGFf2ueuw==",
   "success": true,
-  "projectFilePath": "D:\\git_repository\\test_btn_array\\WinFormsApp2\\WinFormsApp2\\WinFormsApp2.csproj",
+  "projectFilePath": "D:\\git_repository\\arrayButtonPractiseCSharp\\WinFormsApp2\\WinFormsApp2\\WinFormsApp2.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
