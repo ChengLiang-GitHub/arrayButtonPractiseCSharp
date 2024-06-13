@@ -1,1 +1,1 @@
-# Create array of button dynamicly
+# Create array of button dynamically
