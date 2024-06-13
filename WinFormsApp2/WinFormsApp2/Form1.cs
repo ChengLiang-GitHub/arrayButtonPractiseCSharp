@@ -10,6 +10,9 @@ namespace WinFormsApp2
         {
             InitializeComponent();
         }
+
+        string[] g = { "Mouse", "Cow", "Tiger", "Rabbit", "Dragon", "Snake", "Horse", "Goat", "Monkey", "Chicken", "Dog", "Pig" };
+
         private int findMap(string path)
         {
             int i;
@@ -37,7 +40,7 @@ namespace WinFormsApp2
                     imgXXPixelMap.Add(aMap.animalIndex, aMap.aFilePath);
 
                 }
-                for (int i = 0; i < img256PixelMap.Count; i++)
+                for (int i = 0; i < imgXXPixelMap.Count; i++)
                 {
                     testRTB.Text += $"animal index={i} file path={imgXXPixelMap[i]} \n";
                 }
@@ -59,7 +62,6 @@ namespace WinFormsApp2
             createMap("..\\..\\..\\..\\img72px\\", img72PixelMap);
         }
 
-        string[] g = { "Mouse", "Cow", "Tiger", "Rabbit", "Dragon", "Snake", "Horse", "Goat", "Monkey", "Chicken", "Dog", "Pig" };
         private void showBTN_Click(object sender, EventArgs e)
         {
             Button[] btn = new Button[12];        //建立3個button 空間
@@ -95,7 +97,6 @@ namespace WinFormsApp2
                 else
                     numStr += c;
             }
-            int i = Convert.ToInt32(s[0]) - '0' - 1;
             pictureBox1.Image = Image.FromFile(img256PixelMap[Int32.Parse(numStr)-1]);
         }
 
